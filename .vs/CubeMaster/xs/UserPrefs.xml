@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B069CE44-0A68-F9AC-36BE-357F93D5C852}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CircleParametr.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="15" Column="44" />
+      <File FileName="Assets/Scripts/CircleDown.cs" Line="11" Column="10" />
+      <File FileName="Assets/Scripts/CircleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ManagerGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CircleParametr.cs" Line="14" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CubeMaster" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CircleParametr.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="03856418-c13c-4a03-a6e7-b8a01ccb5a4d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
